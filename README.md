@@ -7,3 +7,5 @@
 ## Education
 
 ## Projects
+
+![histogram](assets/histogram-example.png)
